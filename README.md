@@ -60,7 +60,7 @@ Irolyn is a modern repo extractor for iOS 18.5 that lets users access popular th
 
 Palera1n Virtual is not a full jailbreak, but it simulates the jailbreak experience using a safe Terminal + IPSW environment. It provides access to a Sileo-style loader where you can install themes and apps.
 
-<a href="https://github.com/redensajb/Irolyn-Repo-Extractor"><u>More about Irolyn</u></a>
+<a href="https://redensa.com/ios-18-5-jailbreak/"><u>More about Irolyn</u></a>
 
 <b>🔍 Features:</b>
 
