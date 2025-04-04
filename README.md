@@ -30,7 +30,7 @@ Redensa is one of the most powerful solutions, providing a terminal interface th
 
 Challex Retriever is a newcomer with a user-friendly sliding install mechanism. Just swipe right on your screen to install tweaks and customizations.
 
-<a href="https://pangu8.com/ios-18-5-jailbreak/"><u>More about Irolyn</u></a>
+<a href="https://pangu8.com/ios-18-5-jailbreak/"><u>More about Challex</u></a>
 
 <b>🔍 Highlights:</b>
 
